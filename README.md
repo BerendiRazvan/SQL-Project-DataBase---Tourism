@@ -1,4 +1,4 @@
 # SQL-Project-DataBase---Tourism
-Aceasta este un proiect cu o bază de date pentru o agenție de turism.
+This is a database project for a travel agency.
 
 ![Entity Relationship Model](EntityRelationshipModel.png)
